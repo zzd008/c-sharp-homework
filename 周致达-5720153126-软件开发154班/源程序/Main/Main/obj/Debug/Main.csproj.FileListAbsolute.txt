@@ -1,0 +1,15 @@
+E:\c#\大作业\Main\Main\bin\Debug\Main.exe.config
+E:\c#\大作业\Main\Main\bin\Debug\Main.exe
+E:\c#\大作业\Main\Main\bin\Debug\Main.pdb
+E:\c#\大作业\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+E:\c#\大作业\Main\Main\obj\Debug\Main.exe
+E:\c#\大作业\Main\Main\obj\Debug\Main.pdb
+E:\c#\大作业\源码\Main\bin\Debug\Main.exe.config
+E:\c#\大作业\源码\Main\obj\Debug\Main.exe
+E:\c#\大作业\源码\Main\obj\Debug\Main.pdb
+E:\c#\源程序\Main\Main\bin\Debug\Main.exe.config
+E:\c#\源程序\Main\Main\obj\Debug\Main.exe
+E:\c#\源程序\Main\Main\obj\Debug\Main.pdb
+C:\Users\zzd\Desktop\周致达-5720153126-软件开发154班\源程序\Main\Main\bin\Debug\Main.exe.config
+C:\Users\zzd\Desktop\周致达-5720153126-软件开发154班\源程序\Main\Main\obj\Debug\Main.exe
+C:\Users\zzd\Desktop\周致达-5720153126-软件开发154班\源程序\Main\Main\obj\Debug\Main.pdb
